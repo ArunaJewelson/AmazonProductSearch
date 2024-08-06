@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.TestRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 44.212 s <<< FAILURE! - in com.TestRunner.TestRunner
+To verify whether system allows the user to list the samsung phone with specific specification(Validation of Samsung phones in amazon web application)  Time elapsed: 14.874 s  <<< ERROR!
+java.lang.NumberFormatException: For input string: "£200"
+

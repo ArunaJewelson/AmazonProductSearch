@@ -1,0 +1,7 @@
+com\TestRunner\TestRunner.class
+com\BaseClass\BaseClass.class
+com\StepDefinition\StepDefinition.class
+com\POM\PhonePage.class
+com\POM\HomePage.class
+com\POM\AssertionPage.class
+com\hooks\Hooks.class
